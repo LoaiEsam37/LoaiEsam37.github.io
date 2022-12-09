@@ -216,16 +216,20 @@ a{
 
 @media (max-width:641px){
   body{
-    font-size: 10px;
+    font-size: 7px;
 
   }
 
   .main-content h2{
-    font-size: 0.8em;
+    font-size: 0.5em;
   }
 
   .main-content h3{
-    font-size: 1.4em;
-
+    font-size: 1em;
+  }
+  .card {
+    padding: auto;
+    margin: auto;
+    margin-bottom: 30px;
   }
 }
