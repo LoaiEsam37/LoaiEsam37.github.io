@@ -16,10 +16,13 @@
 
 <h3 align="left">Skills:</h3>
 
-- Automation Tasks with **Github Actions**
-
 - Automation **Web Application Pentesting** with Python and Golang
-
+  - **XSS** => Cross Site Scripting
+  - **LFI** => Local File Inclusion
+ 
 - Strong Knowledge in **Linux CLI**
+  - Managing User Accounts 
+  - Secure Linux File Access
+  - Managing Files 
 <hr>
 <h5 align="center">I have started my Carrer since 2022 when i was 14 years old</h5>
