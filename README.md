@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm L😁ai Esam</h1>
 <h3 align="center">Full Stack Devoleper</h3>
 
-- 🌱 I’m currently learning **php**, **Laravel**, **Vue.js**, **mysql**, **Kubernetes**
+- 🌱 I’m currently learning **Laravel**, **Vue.js**, **mysql**, **Kubernetes**
 
 - 📫 How to reach me **loaiesam1234@gmail.com**
 
